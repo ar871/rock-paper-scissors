@@ -1,0 +1,25 @@
+h1{
+    text-align: center; /* make text center*/
+}
+.choiceBtn{
+    line-height:30px;
+    width:150px; /* button size*/
+}
+
+#gameDiv{
+    font-family: cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: bisque;
+    text-align: center;  /* colour for game*/
+}
+
+#playerText{
+    color: blue;
+
+}
+#computerText{
+    color: chartreuse;
+
+}  /* above be the colour for text of player and computer*/
